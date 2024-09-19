@@ -21,7 +21,8 @@ El movimiento del brazo consiste en recoger un objeto(fusible 1) e intercambiarl
 13. Dirigirse a la posicion Home
 
 
-![WhatsApp Image 2024-09-05 at 7 50 27 PM](https://github.com/user-attachments/assets/119bf538-65c7-435b-9ef4-b1bfec92188c)
+![image](https://github.com/user-attachments/assets/45941ddc-1fae-4280-8c13-9384bd75e29e)
+
 
 De tal manera que el codigo desarrollado quedo de la siguiente manera:
 ```
