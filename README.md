@@ -60,18 +60,18 @@ Fend
 
 En el siguiente video se muestra el movimiento realizado utilizando el código anterior, cuyo objetivo fue intercambiar la posicion de dos fusibles. Este proceso demuestra el correcto funcionamiento del sistema y cumple con los objetivos establecidos para la práctica
 
-https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link
+[https://drive.google.com/drive/folders/1HjE7HlarkAU024qj9DKuwbbv-v8hnPId?usp=drive_link](https://drive.google.com/drive/folders/1qcI8ykO0PPjPOEMBOcoG6jSuusFKTzMy?usp=sharing)
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-Esta práctica brindó la descubrimiento de familiarizarnos con algunas de las herramientas que ofrece el programa Epson RC+, permitiendo averiguar nuevas formas de programación para la automatización del brazo robotico utilizado en el curso, de este modo aplicamos los comandos ON, GO y OFF, los cuales son necesarios para realizar movimientos y tareas en el brazo mecánico. Esto permitió comprender de mejor manera las capacidades de control, precisión del brazo y su movimiento.
+Esta práctica permitió profundizar en la programación de trayectorias para un brazo robótico utilizando el software Epson RC+. A través del intercambio de posiciones entre dos objetos, se adquirió una comprensión más clara sobre la precisión y el control del brazo robótico. El uso de los comandos ON, GO y OFF fue clave para completar los movimientos de manera eficiente, lo que demostró las capacidades del sistema para realizar tareas automatizadas con exactitud.
 
 
 ### Pablo Axel Silva Fuentes: 
- De primera instancia esta práctica se logró aprender una característica importante del software, lo que posibilitó adquirir conocimientos adicionales sobre programación, así como llevar a cabo movimientos precisos con el brazo robótico. El uso correcto de los comandos ON, GO y OFF fue necesario para completar la tarea de trasladar un objeto a una ubicación precisa, resaltando las habilidades del sistema en cuanto a exactitud y manejo.
+A través de esta práctica, se logró programar con éxito una secuencia de movimientos para el brazo robótico, lo que resaltó la importancia de los comandos básicos en la automatización de procesos. La correcta implementación de la planificación de trayectorias permitió intercambiar dos objetos de manera precisa, destacando la precisión y la eficiencia del sistema robótico.
 
 ### Eduardo David Salas Ayala: 
-El desarrollo de esta practica permitio conocer una de las tantas herramientas que nos brinda del software Epson RC+, permitiendo cononocer nuevas secciones de programación y la ejecución de movimientos tanto en el simulador como en el brazo físico. El conocimiento de comandos básicos como ON, GO y OFF, junto con su correcta implementación, permitió cumplir eficazmente el objetivo de tomar un objeto y trasladarlo a otro punto, lo que ayudó a comprender mejor las capacidades de movimiento y precisión del brazo robótico.
+La práctica fue de gran ayuda para mejorar la comprensión de la programación de trayectorias y donde la ejecución de los movimientos necesarios para intercambiar dos objetos permitió comprender mejor las capacidades del software Epson RC+ y la importancia de los comandos básicos en la programación de tareas repetitivas y precisas.
 
 ## Referencias bibliográficas
 - Localización y planificación de trayectorias - TEKNIKER. (s. f.). https://www.tekniker.es/es/localizacion-y-planificacion-de-trayectorias
